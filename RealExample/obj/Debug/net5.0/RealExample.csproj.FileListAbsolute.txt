@@ -1,0 +1,16 @@
+C:\Users\mjmde\Desktop\vs\testC#\compositPattern\RealExample\bin\Debug\net5.0\RealExample.exe
+C:\Users\mjmde\Desktop\vs\testC#\compositPattern\RealExample\bin\Debug\net5.0\RealExample.deps.json
+C:\Users\mjmde\Desktop\vs\testC#\compositPattern\RealExample\bin\Debug\net5.0\RealExample.runtimeconfig.json
+C:\Users\mjmde\Desktop\vs\testC#\compositPattern\RealExample\bin\Debug\net5.0\RealExample.runtimeconfig.dev.json
+C:\Users\mjmde\Desktop\vs\testC#\compositPattern\RealExample\bin\Debug\net5.0\RealExample.dll
+C:\Users\mjmde\Desktop\vs\testC#\compositPattern\RealExample\bin\Debug\net5.0\ref\RealExample.dll
+C:\Users\mjmde\Desktop\vs\testC#\compositPattern\RealExample\bin\Debug\net5.0\RealExample.pdb
+C:\Users\mjmde\Desktop\vs\testC#\compositPattern\RealExample\obj\Debug\net5.0\RealExample.csproj.AssemblyReference.cache
+C:\Users\mjmde\Desktop\vs\testC#\compositPattern\RealExample\obj\Debug\net5.0\RealExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mjmde\Desktop\vs\testC#\compositPattern\RealExample\obj\Debug\net5.0\RealExample.AssemblyInfoInputs.cache
+C:\Users\mjmde\Desktop\vs\testC#\compositPattern\RealExample\obj\Debug\net5.0\RealExample.AssemblyInfo.cs
+C:\Users\mjmde\Desktop\vs\testC#\compositPattern\RealExample\obj\Debug\net5.0\RealExample.csproj.CoreCompileInputs.cache
+C:\Users\mjmde\Desktop\vs\testC#\compositPattern\RealExample\obj\Debug\net5.0\RealExample.dll
+C:\Users\mjmde\Desktop\vs\testC#\compositPattern\RealExample\obj\Debug\net5.0\ref\RealExample.dll
+C:\Users\mjmde\Desktop\vs\testC#\compositPattern\RealExample\obj\Debug\net5.0\RealExample.pdb
+C:\Users\mjmde\Desktop\vs\testC#\compositPattern\RealExample\obj\Debug\net5.0\RealExample.genruntimeconfig.cache

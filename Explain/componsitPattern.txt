@@ -1,0 +1,11 @@
+Composit pattern
+-----------------
+I always call this designe pattern of Tree designe pattern
+
+It include the main class that draw the classes included which will
+inherent of it.
+
+There are two types of classes that inherets,
+1) leaf : sigle class, that come without chlidern.
+2) component : the class come with children.
+ **************************************************
